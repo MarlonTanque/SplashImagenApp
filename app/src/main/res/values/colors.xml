@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="vgame_dark">#080B2A</color>
+    <color name="vgame_cream">#F5F7FF</color>
+    <color name="vgame_caramel">#00D9FF</color>
+    <color name="vgame_text">#171A3A</color>
+
+</resources>

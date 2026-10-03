@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.Videojuego"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:fontFamily">sans</item>
+    </style>
+
+    <style name="Theme.Videojuego"
+        parent="Base.Theme.Videojuego" />
+
+    <style name="Theme.Videojuego.Starting"
+        parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">
+            @color/vgame_dark
+        </item>
+
+        <item name="windowSplashScreenAnimatedIcon">
+            @drawable/game_splash
+        </item>
+
+        <item name="postSplashScreenTheme">
+            @style/Theme.Videojuego
+        </item>
+
+    </style>
+
+</resources>

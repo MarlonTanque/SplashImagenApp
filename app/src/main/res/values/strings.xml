@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pixel Arena</string>
+    <string name="titulo_app">Bienvenido a Pixel Arena</string>
+    <string name="mensaje_app">
+        Tu aventura comienza aquí.
+    </string>
+    <string name="descripcion_logo">
+        Logotipo de Pixel Arena
+    </string>
+
+</resources>
